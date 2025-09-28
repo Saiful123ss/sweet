@@ -6,7 +6,7 @@ function showSurprise() {
     <p style="text-align: left; line-height: 1.7; font-size: 1rem; color: #444; padding: 12px; border-left: 3px solid #ff4d88; background: #fff0f5; border-radius: 8px;">
       Hey you 💌,<br><br>
       I don’t really know how to make this fancy, so I’ll just say it the way it is.  
-      You make my days lighter in a way I can’t explain — like even the smallest things about you stick with me.  
+      You make my days lighter in a way I can’t explain like even the smallest things about you stick with me.  
       The way you laugh, the little words you say… they keep replaying in my head and it makes me smile out of nowhere.<br><br>
       Honestly, it feels like my heart found its favorite song, and it just hums whenever you pop into my mind.  
       And that’s kinda all the time 🙈<br><br>
